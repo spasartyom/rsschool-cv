@@ -20,3 +20,12 @@ Skills:
  
 Experience:
 * June 2019 - June 2020, Sletat.ru, Support Engineer.
+
+Education:
+* 2016 - 2020, Saint Petersburg Electrotechnical University "LETI", Applied Mathematics and Computer Science.
+* 2020, Hexlet, Frontend Developer
+
+Contact info:
+* Email: spasartyom@gmail.com
+* Skype: live:artyomspas
+* Telegram: @spas_artem
